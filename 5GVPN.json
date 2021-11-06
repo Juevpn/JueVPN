@@ -86,11 +86,62 @@
 {
          "name": "IN-007",
          "url": "https://sshsslvpn.000webhostapp.com/Asia-In-007.ovpn"
+      },
+
+{
+         "name": "CA-001",
+         "url": "https://sshsslvpn.000webhostapp.com/Asia-Ca-001.ovpn"
+      },
+
+
+{
+         "name": "CA-002",
+         "url": "https://sshsslvpn.000webhostapp.com/Asia-Ca-002.ovpn"
+      },
+{
+         "name": "CA-003",
+         "url": "https://sshsslvpn.000webhostapp.com/Asia-Ca-003.ovpn"
+      },
+
+{
+         "name": "CA-004",
+         "url": "https://sshsslvpn.000webhostapp.com/Asia-Ca-004.ovpn"
+      },
+
+{
+         "name": "CA-005",
+         "url": "https://sshsslvpn.000webhostapp.com/Asia-Ca-005.ovpn"
+      },
+
+
+{
+         "name": "US-001",
+         "url": "https://sshsslvpn.000webhostapp.com/Asia-Us-001.ovpn"
+      },
+{
+         "name": "US-002",
+         "url": "https://sshsslvpn.000webhostapp.com/Asia-Us-002.ovpn"
+      },
+
+{
+         "name": "US-003",
+         "url": "https://sshsslvpn.000webhostapp.com/Asia-Us-003.ovpn"
+      },
+
+
+{
+         "name": "US-004",
+         "url": "https://sshsslvpn.000webhostapp.com/Asia-Us-004.ovpn"
+      },
+
+{
+         "name": "US-005",
+         "url": "https://sshsslvpn.000webhostapp.com/Asia-Us-005.ovpn"
       }
 
 
  ],
-"message":"TRUE & DTAC90Days\n•Version:1\n\n•Made With Love💙 ",
+"message":"TRUE & DTAC90Days\n•Version:2\n•SG🇸🇬CA🇨🇦IN🇮🇳US🇺🇸\n\n•Made With Love💙 ",
    "title":"🤍6 November 2021🤍" ,
-   "version": 1
+   "version": 2
 }
