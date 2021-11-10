@@ -281,6 +281,31 @@
          "url": "https://onlinejh.000webhostapp.com/Asia-De-005.ovpn"
       },
 
+{
+         "name": "DE-006",
+         "url": "https://onlinejh.000webhostapp.com/Asia-De-001.ovpn"
+      },
+
+
+{
+         "name": "DE-007",
+         "url": "https://onlinejh.000webhostapp.com/Asia-De-002.ovpn"
+      },
+{
+         "name": "DE-008",
+         "url": "https://onlinejh.000webhostapp.com/Asia-De-003.ovpn"
+      },
+
+{
+         "name": "DE-009",
+         "url": "https://onlinejh.000webhostapp.com/Asia-De-004.ovpn"
+      },
+
+{
+         "name": "DE-010",
+         "url": "https://onlinejh.000webhostapp.com/Asia-De-005.ovpn"
+      },
+
 
 {
          "name": "IN-001",
@@ -342,6 +367,31 @@
          "url": "https://onlinejh.000webhostapp.com/Asia-Ca-005.ovpn"
       },
 
+{
+         "name": "CA-006",
+         "url": "https://onlinejh.000webhostapp.com/Asia-Ca-001.ovpn"
+      },
+
+
+{
+         "name": "CA-007",
+         "url": "https://onlinejh.000webhostapp.com/Asia-Ca-002.ovpn"
+      },
+{
+         "name": "CA-008",
+         "url": "https://onlinejh.000webhostapp.com/Asia-Ca-003.ovpn"
+      },
+
+{
+         "name": "CA-009",
+         "url": "https://onlinejh.000webhostapp.com/Asia-Ca-004.ovpn"
+      },
+
+{
+         "name": "CA-010",
+         "url": "https://onlinejh.000webhostapp.com/Asia-Ca-005.ovpn"
+      },
+
 
 {
          "name": "US-001",
@@ -366,11 +416,36 @@
 {
          "name": "US-005",
          "url": "https://onlinejh.000webhostapp.com/Asia-Us-005.ovpn"
+      },
+
+{
+         "name": "US-006",
+         "url": "https://onlinejh.000webhostapp.com/Asia-Us-001.ovpn"
+      },
+{
+         "name": "US-007",
+         "url": "https://onlinejh.000webhostapp.com/Asia-Us-002.ovpn"
+      },
+
+{
+         "name": "US-008",
+         "url": "https://onlinejh.000webhostapp.com/Asia-Us-003.ovpn"
+      },
+
+
+{
+         "name": "US-009",
+         "url": "https://onlinejh.000webhostapp.com/Asia-Us-004.ovpn"
+      },
+
+{
+         "name": "US-010",
+         "url": "https://onlinejh.000webhostapp.com/Asia-Us-005.ovpn"
       }
 
 
  ],
-"message":"TRUE & DTAC90Days\n•Version:2\n•SG🇸🇬DE🇩🇪CA🇨🇦IN🇮🇳US🇺🇸\n\n•Made With Love💙 ",
-   "title":"🤍72 Servers All🤍" ,
-   "version": 2
+"message":"TRUE & DTAC90Days\n•Version:3\n•SG🇸🇬DE🇩🇪CA🇨🇦IN🇮🇳US🇺🇸\n\n•Made With Love💙 ",
+   "title":"🤍10 November 2021🤍" ,
+   "version": 3
 }
